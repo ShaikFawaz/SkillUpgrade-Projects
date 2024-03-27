@@ -17,7 +17,7 @@ Ready to apply my newfound skills and contribute positively to future projects. 
 
 - **Description**: A simple weather application that fetches current weather data based on user location.
 - **Technologies Used**: Figma
-- **Demo**: [View Weather App]((https://www.figma.com/file/fLomaXMutLyc3GrN7yJHzQ/Task-2?type=design&node-id=0%3A1&mode=design&t=4ozjW1BnpRg5Fw3Z-1))
+- **Demo**: [View Weather App](https://www.figma.com/file/fLomaXMutLyc3GrN7yJHzQ/Task-2?type=design&node-id=0%3A1&mode=design&t=4ozjW1BnpRg5Fw3Z-1)
 
 ### Uber Clone
 
@@ -25,7 +25,7 @@ Ready to apply my newfound skills and contribute positively to future projects. 
 
 - **Description**: A clone of the Uber app's user interface, demonstrating front-end design skills.
 - **Technologies Used**: Figma
-- **Demo**: [View Uber Clone]([uber_clone_link_here](https://www.figma.com/file/DgzxC684FyZYvgyPs0hEHP/task3?type=design&node-id=0%3A1&mode=design&t=sdhQ0sXvvxcRLBbt-1))
+- **Demo**: [View Uber Clone](https://www.figma.com/file/DgzxC684FyZYvgyPs0hEHP/task3?type=design&node-id=0%3A1&mode=design&t=sdhQ0sXvvxcRLBbt-1)
 
 ## Getting Started
 
