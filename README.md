@@ -10,7 +10,6 @@ Ready to apply my newfound skills and contribute positively to future projects. 
 - **Description**: My personal portfolio website showcasing my skills and Details.
 - **Technologies Used**: Figma
 - **Demo**: [View Personal Portfolio](https://www.figma.com/file/1BIUrDqmtKk2tp6TCEAoBX/Task-1?type=design&mode=design&t=4ozjW1BnpRg5Fw3Z-1)
-- **Repository**: [Personal Portfolio Repository](Task1)
 
 ### Weather App
 
@@ -19,7 +18,6 @@ Ready to apply my newfound skills and contribute positively to future projects. 
 - **Description**: A simple weather application that fetches current weather data based on user location.
 - **Technologies Used**: Figma
 - **Demo**: [View Weather App]((https://www.figma.com/file/fLomaXMutLyc3GrN7yJHzQ/Task-2?type=design&node-id=0%3A1&mode=design&t=4ozjW1BnpRg5Fw3Z-1))
-- **Repository**: [Weather App Repository](Task2)
 
 ### Uber Clone
 
@@ -28,7 +26,6 @@ Ready to apply my newfound skills and contribute positively to future projects. 
 - **Description**: A clone of the Uber app's user interface, demonstrating front-end design skills.
 - **Technologies Used**: Figma
 - **Demo**: [View Uber Clone]([uber_clone_link_here](https://www.figma.com/file/DgzxC684FyZYvgyPs0hEHP/task3?type=design&node-id=0%3A1&mode=design&t=sdhQ0sXvvxcRLBbt-1))
-- **Repository**: [Uber Clone Repository](Task3)
 
 ## Getting Started
 
